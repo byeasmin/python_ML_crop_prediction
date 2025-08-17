@@ -16,4 +16,4 @@
 ---
 ## 🚀 Live Demo
 The app is deployed on **Render**:  
-[Your Vercel Deployment Link Here](https://lnkd.in/eEzWueST)
+[Render Deployment Link Here](https://python-ml-crop-prediction-5.onrender.com/)
