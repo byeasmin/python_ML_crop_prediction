@@ -22,9 +22,9 @@ This ML project predicts the most suitable crop based on soil nutrients, tempera
 
 ## 📸 App Screenshot
 
-[Home Page](website_preview/index_page.png)
-[Form Page](website_preview/form_page.png)
-[Prediction](website_preview/prediction.png)
+![Home Page](website_preview/index_page.png)
+![Form Page](website_preview/form_page.png)
+![Prediction](website_preview/prediction.png)
 
 
 ---
