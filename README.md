@@ -20,6 +20,13 @@ This ML project predicts the most suitable crop based on soil nutrients, tempera
 
 ---
 
+## 📸 App Screenshot
+
+![Home Page](website_preview/index_page.png)
+
+
+---
+
 ## 🚀 Live Demo
 The app is deployed on **Render**:  
 [Render Deployment Link Here](https://python-ml-crop-prediction-5.onrender.com/)
