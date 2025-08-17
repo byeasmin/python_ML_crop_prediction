@@ -1,0 +1,116 @@
+/* Common Styles */
+body.index-page {
+  background: url("../static/index_background.jpg") no-repeat center center/cover;
+}
+body.form-page {
+  background: url("../static/form_background.jpg") no-repeat center center/cover;
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Arimo', sans-serif;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+/* Overlay box for index.html */
+.overlay {
+  background: rgba(0,0,0,0.3);
+  padding: 60px;
+  border-radius: 12px;
+  color: white;
+  text-align: center;
+}
+
+.overlay h1 {
+  color: orange;
+  font-size: 36px;
+  margin-bottom: 15px;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+.overlay p {
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+
+.overlay a {
+  background: #4CAF50;
+  padding: 14px 30px;
+  border-radius: 8px;
+  color: white;
+  text-decoration: none;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.overlay a:hover {
+
+  background-color: #808080;
+  transform: translateY(-2px);
+  box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+  transition: all 0.3s;
+}
+
+
+/* Form box styles for form.html */
+.form-box {
+  padding: 40px;
+  border-radius: 12px;
+  width: 600px;
+  text-align: center;
+}
+
+.form-box h2 {
+  margin-bottom: 20px;
+  color: black;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+.form-box input {
+  width: 100%;
+  padding: 12px;
+  margin: 8px 0;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 14px;
+  border-bottom: 4px solid black;
+}
+
+.form-box button {
+  width: 30%;
+  padding: 12px;
+  margin-top: 15px;
+  background: #4CAF50;
+  border: none;
+  border-radius: 6px;
+  font-size: 16px;
+  color: white;
+  cursor: pointer;
+}
+
+.form-box button:hover {
+  background-color: #808080;
+  transform: translateY(-2px);
+  box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+  transition: all 0.3s;
+}
+
+#predi {
+  margin-top: 20px;
+  font-weight: bold;
+  color: #ffffff;
+  opacity: 0;
+  transform: translateY(-10px);
+  animation: fadeIn 1s forwards;
+}
+@keyframes fadeIn {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
