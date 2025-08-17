@@ -22,14 +22,24 @@ This ML project predicts the most suitable crop based on soil nutrients, tempera
 
 ## 📸 App Screenshot
 
-![Home Page](website_preview/index_page.png)
-*Figure 1: Crop Prediction App Dashboard*
----
-![Form Page](website_preview/form_page.png)
-*Figure 1: Crop selection info or instructions)*
----
-![Prediction](website_preview/prediction.png)
-*Figure 1: User submits soil/environment data)*
+<p align="center">
+  <img src="website_preview/index_page.png" alt="Home Page" width="600"/>
+  <br/>
+  <b>Figure 1:</b> Crop Prediction App Dashboard
+</p>
+
+<p align="center">
+  <img src="website_preview/form_page.png" alt="Form Page" width="600"/>
+  <br/>
+  <b>Figure 2:</b> Crop selection info or instructions
+</p>
+
+<p align="center">
+  <img src="website_preview/prediction.png" alt="Prediction Page" width="600"/>
+  <br/>
+  <b>Figure 3:</b> User submits soil/environment data
+</p>
+
 
 
 ---
