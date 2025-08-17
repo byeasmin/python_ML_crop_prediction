@@ -14,6 +14,12 @@
 </p>
 
 ---
+
+## 📄 About the Project
+This ML project predicts the most suitable crop based on soil nutrients, temperature, and rainfall. Users can input environmental data through a simple web form, and the trained model returns the best crop recommendation.
+
+---
+
 ## 🚀 Live Demo
 The app is deployed on **Render**:  
 [Render Deployment Link Here](https://python-ml-crop-prediction-5.onrender.com/)
